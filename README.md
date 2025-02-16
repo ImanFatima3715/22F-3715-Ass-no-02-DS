@@ -80,7 +80,7 @@ python annotate_papers.py
 - **Library Compatibility**: Ensuring compatibility between Python libraries for scraping and annotation.
 
 ## 📖 Blog Post
-For an in-depth explanation, check out the [Medium Blog Post](#) (Replace `#` with actual link).
+For an in-depth explanation, check out the [Medium Blog Post](https://medium.com/@imanfatima7901/automating-research-paper-annotation-with-llms-a-web-scraping-and-ai-powered-approach-1676f6ec2095) (Replace `#` with actual link).
 
 ## 📜 License
 This project is open-source and available under the [MIT License](LICENSE).
